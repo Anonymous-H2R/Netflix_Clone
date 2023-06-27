@@ -1,0 +1,124 @@
+.logo{
+    max-width: 13%;
+}
+.navbar{
+    position: relative;
+}
+.navbar-brand img{
+    /* width: 50%; */
+    margin-left: 140px;
+    margin-top: 10px;
+}
+.back{
+    height: 600px;
+    /* background-color: red; */
+    background: url("D:\Documents\TOPS\netflix\src\Layout\image\IN-en-20230417-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    background-size: cover;
+    /* background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%); */   
+}
+
+.tv1-img
+{
+    height: 342px ;
+    width:472px;
+    /* width: 70%; */
+}
+.V1p
+{
+    position: relative;
+}
+.tv-back{
+    background-color: black;
+}
+
+.V1{
+    /* z-index: -1; */
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    max-width: 54%;
+    max-height: 54%;
+    position: absolute;
+    top: 21%;
+    left: 11%;
+  
+}
+
+.v1h1
+{
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.quot1
+{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+hr{
+    color:lightgray;
+    height: 4px;
+
+   
+}
+
+.tv2-img
+{
+    height: 342px ;
+    width:472px;
+    /* width: 70%; */
+}
+
+.v2h1
+{
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.quot2
+{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+
+
+.tv3-img
+{
+    height: 342px ;
+    width:472px;
+    /* width: 70%; */
+}
+
+.v3h1
+{
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.quot3
+{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.V3p
+{
+    position: relative;
+
+}
+
+
+.V3{
+    /* z-index: -1; */
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    max-width: 46%;
+    max-height: 45%;
+    position: absolute;
+    top: 9%;
+    left: 15%;
+  
+}
